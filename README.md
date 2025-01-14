@@ -55,7 +55,7 @@ T20-WorldCup2022-BestXI-Dashboard/
 
 ## How to Use
 1. Clone this repository:
-2. Open the Power BI file (`T20_Dashboard.pbix`) to explore the dashboards.
+2. Open the Power BI file (`T20_World_2022_dashboard.pbix`) to explore the dashboards.
 3. Access raw and processed data in the `data/` folder.
 
 ## Dashboards
